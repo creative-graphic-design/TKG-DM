@@ -4,7 +4,7 @@
 > **TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**  
 > *Ryugo Morita, Stanislav Frolov, Brian Bernhard Moser, Takahiro Shirakawa, Ko Watanabe, Andreas Dengel, Jinjia Zhou*  
 
-![TKG-DM Pipeline](static/images/model.svg)
+![TKG-DM Pipeline](https://raw.githubusercontent.com/ryugo417/TKG-DM/6dae8837021e4dd2eeea8e53b9ca7c5c8447bd10/static/images/model.svg)
 
 ## Abstract
 
